@@ -316,10 +316,10 @@ call s:HL('PmenuThumb', 'brightgravel')
 " }}}
 " Diffs {{{
 
-call s:HL('DiffDelete', 'coal', 'coal')
-call s:HL('DiffAdd',    '',     'deepergravel')
-call s:HL('DiffChange', '',     'darkgravel')
-call s:HL('DiffText',   'snow', 'deepergravel', 'bold')
+call s:HL('DiffDelete', 'snow', 'taffy')
+call s:HL('DiffAdd',    'coal',     'lime')
+call s:HL('DiffChange', '',     'deepgravel')
+call s:HL('DiffText',   'coal', 'dalespale', 'bold')
 
 " }}}
 " Spelling {{{
